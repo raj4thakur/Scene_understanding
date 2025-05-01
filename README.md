@@ -34,10 +34,14 @@ python scene_understanding.py
 
 
 sample image
-![image](https://github.com/user-attachments/assets/09c4327c-51aa-4ac3-867e-be879df9f8b9)
-
+![tmpqb_krqcu](https://github.com/user-attachments/assets/7900fea2-55c9-4101-b360-30cf9eba94e2)
 
 Output-
-
+Label: person, Confidence: 0.58, Box: [58.584244, 178.51508, 74.19879, 211.90552]
+Label: bench, Confidence: 0.40, Box: [328.18103, 198.63383, 357.3207, 221.1698]
+Caption: a park with a gaze and a playground
+Scene Graph:
+person is near bench
+bench is near person
 
 
